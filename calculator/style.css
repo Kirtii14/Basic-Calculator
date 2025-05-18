@@ -47,6 +47,9 @@ body{
     background-color: #D2FAFB;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     border-radius: 2rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .nine, .eight, .seven {
