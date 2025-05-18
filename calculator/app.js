@@ -57,7 +57,7 @@ for(let btn of btns){
         }
 
         else{
-            return texts = "error!";
+            sText.innerText = "error!";
         }
 
         for(let btn of btns){
