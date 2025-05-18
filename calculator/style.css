@@ -66,6 +66,17 @@ body{
   color: black;
 }
 
+.eql{
+  background-color: #8E7DBE;
+  height: 15vmin;
+  width: 15vmin;
+  border-radius: 5rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  font-size: 8vmin;
+  color: black;
+}
+
 
 
 .six, .five, .four, .add {
