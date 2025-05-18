@@ -14,6 +14,9 @@ btns.forEach(btn => {    //screen-visuals
 const clear = () => {   //c-screen
 
 sText.innerText = "";
+for(let btn of btns){
+    btn.disabled = false;
+        }
 }
  c.addEventListener("click", clear); //clear-screen
 
